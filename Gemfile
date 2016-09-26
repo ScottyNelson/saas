@@ -59,4 +59,3 @@ group :development do
   
   gem 'devise', '3.4.1'
 end
-
